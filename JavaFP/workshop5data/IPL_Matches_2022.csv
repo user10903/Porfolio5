@@ -1,0 +1,75 @@
+ID,City,MatchNumber,Team1,Team2,TossWinner,TossDecision,WinningTeam,WonBy,Margin,Player_of_Match
+1312200,Ahmedabad,Final,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,Gujarat Titans,Wickets,7,HH Pandya
+1312199,Ahmedabad,Qualifier 2,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Wickets,7,JC Buttler
+1312198,Kolkata,Eliminator,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,field,Royal Challengers Bangalore,Runs,14,RM Patidar
+1312197,Kolkata,Qualifier 1,Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,Wickets,7,DA Miller
+1304116,Mumbai,70,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings,Wickets,5,Harpreet Brar
+1304115,Mumbai,69,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Wickets,5,JJ Bumrah
+1304114,Mumbai,68,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,Wickets,5,R Ashwin
+1304113,Mumbai,67,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,bat,Royal Challengers Bangalore,Wickets,8,V Kohli
+1304112,Navi Mumbai,66,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,bat,Lucknow Super Giants,Runs,2,Q de Kock
+1304111,Mumbai,65,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,Runs,3,RA Tripathi
+1304110,Navi Mumbai,64,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,Runs,17,SN Thakur
+1304109,Mumbai,63,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,bat,Rajasthan Royals,Runs,24,TA Boult
+1304108,Mumbai,62,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,Gujarat Titans,Wickets,7,WP Saha
+1304107,Pune,61,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,Runs,54,AD Russell
+1304106,Mumbai,60,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,Runs,54,JM Bairstow
+1304105,Mumbai,59,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Wickets,5,DR Sams
+1304104,Navi Mumbai,58,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Wickets,8,MR Marsh
+1304103,Pune,57,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,bat,Gujarat Titans,Runs,62,Shubman Gill
+1304102,Navi Mumbai,56,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,Runs,52,JJ Bumrah
+1304101,Navi Mumbai,55,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,Runs,91,DP Conway
+1304100,Mumbai,54,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Runs,67,PWH de Silva
+1304099,Pune,53,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,Lucknow Super Giants,Runs,75,Avesh Khan
+1304098,Mumbai,52,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,Wickets,6,YBK Jaiswal
+1304097,Mumbai,51,Mumbai Indians,Gujarat Titans,Gujarat Titans,field,Mumbai Indians,Runs,5,TH David
+1304096,Mumbai,50,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,Runs,21,DA Warner
+1304095,Pune,49,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,Runs,13,HV Patel
+1304094,Navi Mumbai,48,Gujarat Titans,Punjab Kings,Gujarat Titans,bat,Punjab Kings,Wickets,8,K Rabada
+1304093,Mumbai,47,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Wickets,7,RK Singh
+1304092,Pune,46,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,Runs,13,RD Gaikwad
+1304091,Mumbai,45,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,Lucknow Super Giants,Runs,6,Mohsin Khan
+1304090,Navi Mumbai,44,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Wickets,5,SA Yadav
+1304089,Mumbai,43,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,bat,Gujarat Titans,Wickets,6,R Tewatia
+1304088,Pune,42,Lucknow Super Giants,Punjab Kings,Punjab Kings,field,Lucknow Super Giants,Runs,20,KH Pandya
+1304087,Mumbai,41,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Wickets,4,Kuldeep Yadav
+1304086,Mumbai,40,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,Wickets,5,Umran Malik
+1304085,Pune,39,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,Runs,29,R Parag
+1304084,Mumbai,38,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,Runs,11,S Dhawan
+1304083,Mumbai,37,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,Runs,36,KL Rahul
+1304082,Mumbai,36,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Wickets,9,M Jansen
+1304081,Navi Mumbai,35,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,bat,Gujarat Titans,Runs,8,Rashid Khan
+1304080,Mumbai,34,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,Runs,15,JC Buttler
+1304079,Navi Mumbai,33,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,Wickets,3,Mukesh Choudhary
+1304078,Mumbai,32,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Wickets,9,Kuldeep Yadav
+1304077,Mumbai,31,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,field,Royal Challengers Bangalore,Runs,18,F du Plessis
+1304076,Mumbai,30,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,Runs,7,YS Chahal
+1304075,Pune,29,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,Wickets,3,DA Miller
+1304074,Mumbai,28,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Wickets,7,Umran Malik
+1304073,Mumbai,27,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,Runs,16,KD Karthik
+1304072,Mumbai,26,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,Runs,18,KL Rahul
+1304071,Mumbai,25,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Wickets,7,RA Tripathi
+1304070,Mumbai,24,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Gujarat Titans,Runs,37,HH Pandya
+1304069,Pune,23,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,Runs,12,MA Agarwal
+1304068,Mumbai,22,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,Runs,23,S Dube
+1304067,Mumbai,21,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Wickets,8,KS Williamson
+1304065,Mumbai,19,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,Runs,44,Kuldeep Yadav
+1304066,Mumbai,20,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,field,Rajasthan Royals,Runs,3,YS Chahal
+1304064,Pune,18,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Wickets,7,Anuj Rawat
+1304063,Mumbai,17,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Wickets,8,Abhishek Sharma
+1304062,Mumbai,16,Punjab Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,Wickets,6,Shubman Gill
+1304061,Mumbai,15,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,Wickets,6,Q de Kock
+1304060,Pune,14,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Wickets,5,PJ Cummins
+1304059,Mumbai,13,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Wickets,4,KD Karthik
+1304058,Mumbai,12,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Lucknow Super Giants,Runs,12,Avesh Khan
+1304057,Mumbai,11,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,Runs,54,LS Livingstone
+1304056,Pune,10,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,Gujarat Titans,Runs,14,LH Ferguson
+1304055,Mumbai,9,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,Runs,23,JC Buttler
+1304054,Mumbai,8,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Wickets,6,UT Yadav
+1304053,Mumbai,7,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,Wickets,6,E Lewis
+1304052,Mumbai,6,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Wickets,3,PWH de Silva
+1304051,Pune,5,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,Runs,61,SV Samson
+1304050,Mumbai,4,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,Wickets,5,Mohammed Shami
+1304049,Mumbai,3,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,Wickets,5,OF Smith
+1304048,Mumbai,2,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Wickets,4,Kuldeep Yadav
+1304047,Mumbai,1,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Wickets,6,UT Yadav
